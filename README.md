@@ -2,6 +2,7 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## <img width="189" height="73" alt="image" src="https://github.com/user-attachments/assets/7302a087-9290-4287-87ad-d591f58dd09a" /> Cyber Range Internship Captsone 
 
 ## ⚠️ Vulnerability Management Projects
 
