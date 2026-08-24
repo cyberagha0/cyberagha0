@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/cyberagha0/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (In Progress) (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (In Progress) (PowerShell, BASH, & Shell Commands)](https://github.com/cyberagha0/programmatic-vulnerability-remediations/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 
