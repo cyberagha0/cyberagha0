@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/cyberagha0/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations  (PowerShell, BASH, & Shell Commands)](https://github.com/cyberagha0/programmatic-vulnerability-remediations/blob/main/README.md)**
-- **[DISA STIG compliance assessment of a Windows 11 Azure VM using Tenable Vulnerability Management.](https://github.com/cyberagha0/tenable-windows11-stig-compliance-scan)
+- **[DISA STIG compliance assessment of a Windows 11 Azure VM using Tenable Vulnerability Management.](https://github.com/cyberagha0/tenable-windows11-stig-compliance-scan)**
 
 ## 🚨 Threat Hunting and Security Operations
 
