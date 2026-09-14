@@ -5,14 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🌐 IoT Security & Secure MQTT Pipeline
 
 - [Secure MQTT Pipeline – 8-Project IoT Cybersecurity Externship](https://github.com/cyberagha0/secure-mqtt-pipeline)
-  - IoT Threat Modeling & Architecture
-  - Python for IoT Security
-  - Insecure MQTT Pipeline Testing
-  - TLS & Secure MQTT Communications
-  - Device Identity & Provisioning
-  - Replay Attack Prevention
-  - Real-Time Security Monitoring
-  - AI-Powered Anomaly Detection
+
 
 ## :honey_pot: LOG(N) Pacific Cyber Range Internship Capstone 
 
