@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🌐 IoT Security & Secure MQTT Pipeline
 
-- **[Secure MQTT Pipeline – 8-Project IoT Cybersecurity Externship](https://github.com/cyberagha0/secure-mqtt-pipeline)**
+- **[Secure MQTT Pipeline – 8 week-Project IoT Cybersecurity Externship](https://github.com/cyberagha0/secure-mqtt-pipeline)**
 
 
 ## :honey_pot: LOG(N) Pacific Cyber Range Internship Capstone 
