@@ -1,6 +1,19 @@
 # <a href="https://www.linkedin.com/in/tural-aghabalayev/">Tural Aghabalayev</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
+## 🌐 IoT Security & Secure MQTT Pipeline
+
+- [Secure MQTT Pipeline – 8-Project IoT Cybersecurity Externship](https://github.com/cyberagha0/secure-mqtt-pipeline)
+  - IoT Threat Modeling & Architecture
+  - Python for IoT Security
+  - Insecure MQTT Pipeline Testing
+  - TLS & Secure MQTT Communications
+  - Device Identity & Provisioning
+  - Replay Attack Prevention
+  - Real-Time Security Monitoring
+  - AI-Powered Anomaly Detection
+
 ## :honey_pot: LOG(N) Pacific Cyber Range Internship Capstone 
 
 - **[Live-Exposed Honeypot Lab](https://github.com/cyberagha0/Cyber-Range-Capstone-/blob/main/README.md)**
