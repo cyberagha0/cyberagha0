@@ -1,9 +1,10 @@
 # <a href="https://www.linkedin.com/in/tural-aghabalayev/">Tural Aghabalayev</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+## 🐍 Security Automation & Scripting
 
 ## 🛠️ Detection Engineering
-
+- **[Cross-platform Python tool that detects failed-login bursts on Windows and Linux](https://github.com/cyberagha0/wazuh-attack-detection-engineering)**
 - **[Explainable ATT&CK-Aligned Detection Engineering with Wazuh](https://github.com/cyberagha0/wazuh-attack-detection-engineering) (Senior Seminar Capstone)**
 
 ## 🌐 IoT Security & Secure MQTT Pipeline - Externship (In Progress)
