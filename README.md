@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🐍 Security Automation & Scripting
 
-- **[Cross-platform Python tool that detects failed-login bursts on Windows and Linux](https://github.com/cyberagha0/wazuh-attack-detection-engineering)**
+- **[Cross-platform Python tool that detects failed-login bursts on Windows and Linux](https://github.com/cyberagha0/failed-login-monitor)**
 
 ## 🛠️ Detection Engineering
 
