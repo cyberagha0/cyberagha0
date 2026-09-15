@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Explainable ATT&CK-Aligned Detection Engineering with Wazuh](https://github.com/cyberagha0/wazuh-attack-detection-engineering) (Senior Seminar Capstone)**
 
-## 🌐 IoT Security & Secure MQTT Pipeline (In Progress)
+## 🌐 IoT Security & Secure MQTT Pipeline - Externship (In Progress)
 
 - **[Secure MQTT Pipeline – 8 week-Project IoT Cybersecurity Externship](https://github.com/cyberagha0/secure-mqtt-pipeline)**
 
