@@ -2,10 +2,12 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## 🐍 Security Automation & Scripting
+## 🚨 Threat Hunting and Security Operations
 
-- **[Cross-platform Python tool that detects failed-login bursts on Windows and Linux](https://github.com/cyberagha0/failed-login-monitor)**
-- **[Programmatic Vulnerability Remediations  (PowerShell, BASH, & Shell Commands)](https://github.com/cyberagha0/programmatic-vulnerability-remediations/blob/main/README.md)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberagha0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Agentic Ransomware Hunt )](https://github.com/cyberagha0/jadepuffer-agentic-ransomware-hunt)**
+- **[Threat Hunting Scenario (Cloud identity breach)](https://github.com/cyberagha0/threat-hunt-meridian)**
+- **[Threat Hunting Scenario (Single-Host Web App Intrusion)](https://github.com/cyberagha0/Meridian-Single-Host-Web-App-Intrusion)**
 
 ## 🛠️ Detection Engineering
 
@@ -25,14 +27,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/cyberagha0/vulnerability-management-program)**
 - **[DISA STIG compliance assessment of a Windows 11 Azure VM using Tenable Vulnerability Management.](https://github.com/cyberagha0/tenable-windows11-stig-compliance-scan)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🐍 Security Automation & Scripting
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberagha0/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Agentic Ransomware Hunt )](https://github.com/cyberagha0/jadepuffer-agentic-ransomware-hunt)**
-- **[Threat Hunting Scenario (Cloud identity breach)](https://github.com/cyberagha0/threat-hunt-meridian)**
-- **[Threat Hunting Scenario (Single-Host Web App Intrusion)](https://github.com/cyberagha0/Meridian-Single-Host-Web-App-Intrusion)**
-
-
+- **[Cross-platform Python tool that detects failed-login bursts on Windows and Linux](https://github.com/cyberagha0/failed-login-monitor)**
+- **[Programmatic Vulnerability Remediations  (PowerShell, BASH, & Shell Commands)](https://github.com/cyberagha0/programmatic-vulnerability-remediations/blob/main/README.md)**
 
 <hr/>
 
