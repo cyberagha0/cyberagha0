@@ -8,6 +8,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Agentic Ransomware Hunt )](https://github.com/cyberagha0/jadepuffer-agentic-ransomware-hunt)**
 - **[Threat Hunting Scenario (Cloud identity breach)](https://github.com/cyberagha0/threat-hunt-meridian)**
 - **[Threat Hunting Scenario (Single-Host Web App Intrusion)](https://github.com/cyberagha0/Meridian-Single-Host-Web-App-Intrusion)**
+- **[Threat Hunting Scenario (Harborlight-Ransomware)](https://github.com/cyberagha0/Threat-Hunt-Harborlight-Ransomware/tree/main/Hunt-22-Harborlight/Hunt-22-Harborlight)**
+
 
 ## 🛠️ Detection Engineering
 
