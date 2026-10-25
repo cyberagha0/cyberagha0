@@ -9,7 +9,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Cloud identity breach)](https://github.com/cyberagha0/threat-hunt-meridian)**
 - **[Threat Hunting Scenario (Single-Host Web App Intrusion)](https://github.com/cyberagha0/Meridian-Single-Host-Web-App-Intrusion)**
 - **[Threat Hunting Scenario (Harborlight-Ransomware)](https://github.com/cyberagha0/Threat-Hunt-Harborlight-Ransomware/tree/main/Hunt-22-Harborlight/Hunt-22-Harborlight)**
-
+- **[Threat Hunting Scenario (Microsoft 365 Copilot Prompt Injection)](https://github.com/cyberagha0/operation-echoleak-threat-hunt/blob/main/operation-echoleak-threat-hunt/README.md)**
+v
 
 ## 🛠️ Detection Engineering
 
