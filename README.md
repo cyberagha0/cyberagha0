@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Harborlight-Ransomware)](https://github.com/cyberagha0/Threat-Hunt-Harborlight-Ransomware/tree/main/Hunt-22-Harborlight/Hunt-22-Harborlight)**
 - **[Threat Hunting Scenario (Microsoft 365 Copilot Prompt Injection)](https://github.com/cyberagha0/operation-echoleak-threat-hunt/blob/main/README.md)**
 - **[Threat Hunting Scenario (PHP2Shell: The Hartwell Breach)](https://github.com/cyberagha0/-php2shell-hartwell-threat-hunt)**
+- **[Threat Hunting Scenario (WrongShell: Unusual outbound traffic from the machine,)](https://github.com/cyberagha0/Wrong-Shell-Threat-Hunt)**
 
 
 ## 🛠️ Detection Engineering
